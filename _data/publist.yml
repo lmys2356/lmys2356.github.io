@@ -7,13 +7,13 @@
     display: arXiv:2205.10346 (2022)
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "A pathogenic mechanism associated with myopathies and structural birth defects involves TPM2-directed myogenesis"
+  image: JCI insight.png
+  description: Nemaline myopathy (NM) is the most common congenital myopathy, characterized by extreme weakness of the respiratory, limb, and facial muscles. Pathogenic variants in Tropomyosin 2 (TPM2), which encodes a skeletal muscle specific actin binding protein essential for sarcomere function, cause a spectrum of musculoskeletal disorders that include NM as well as cap myopathy, congenital fiber type disproportion, and distal arthrogryposis (DA). The in vivo pathomechanisms underlying TPM2-related disorders are unknown, so we expressed a series of dominant, pathogenic TPM2 variants in Drosophila embryos and found 4 variants significantly affected muscle development and muscle function. Transient overexpression of the 4 variants also disrupted the morphogenesis of mouse myotubes in vitro and negatively affected zebrafish muscle development in vivo. We used transient overexpression assays in zebrafish to characterize 2 potentially novel TPM2 variants and 1 recurring variant that we identified in patients with DA (V129A, E139K, A155T, respectively) and found these variants caused musculoskeletal defects similar to those of known pathogenic variants. The consistency of musculoskeletal phenotypes in our assays correlated with the severity of clinical phenotypes observed in our patients with DA, suggesting disrupted myogenesis is a potentially novel pathomechanism of TPM2 disorders and that our myogenic assays can predict the clinical severity of TPM2 variants.
+  authors: Jennifer McAdow*, Shuo Yang*, Tiffany Ou, Gary Huang, Matthew B. Dobbs, Christina A. Gurnett, Michael J. Greenberg, and Aaron N. Johnson
   link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
+    url: https://pubmed.ncbi.nlm.nih.gov/35579956/
+    display: PMID: 35579956 (2022)
   highlight: 1
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
